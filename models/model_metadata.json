@@ -1,0 +1,10 @@
+{
+  "n_estimators": 84,
+  "mse": 0.25989372098451735,
+  "rmse": 0.5097977255583996,
+  "mae": 0.3310838124942323,
+  "r2": 0.8059641669289982,
+  "training_time": 8.29914903640747,
+  "model_type": "RandomForestRegressor",
+  "random_state": 201
+}
